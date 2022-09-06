@@ -32,8 +32,8 @@ start using the package. -->
 to `/example` folder. 
 
 ```dart
-const like = 'sample'; -->
-```
+const like = 'sample'; 
+``` -->
 
 ## Additional information
 
